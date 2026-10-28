@@ -15,7 +15,7 @@ One should have IDLE or some other Python IDE installed. The file containing all
 
 ***AUTHORS***
 
-Rylee Price - @msryleeprice on Github
+Rylee - @msrylee on Github
 
 ***UPDATE LOG***
 
